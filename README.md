@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fruuu</h1>
-<h3 align="center">I am a first-semester student majoring in Informatics Engineering at Universitas Muhammadiyah Surakarta.</h3>
+<h3 align="center">I am a first-semester student majoring in Informatics Engineering at Muhammadiyah University Of Surakarta.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fobvsy&label=Profile%20views&color=0e75b6&style=flat" alt="fobvsy" /> </p>
 
