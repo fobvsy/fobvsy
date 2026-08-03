@@ -1,33 +1,124 @@
-<h1 align="center">Hi 👋, I'm Fruuu</h1>
-<h3 align="center">I am a first-semester student majoring in Informatics Engineering at Muhammadiyah University Of Surakarta.</h3>
+<h1 align="center">Hi 👋, I'm Indratama Faturrohim (Fruuu)</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fobvsy&label=Profile%20views&color=0e75b6&style=flat" alt="fobvsy" /> </p>
+<h3 align="center">
+Informatics Engineering Student • Open Source Enthusiast • Backend & Web Developer • Network Enthusiast
+</h3>
 
-- 🔭 I’m currently working on [-](-)
-
-- 🌱 I’m currently learning **HTML, CSS, Python, SQL**
-
-- 👯 I’m looking to collaborate on [-](-)
-
-- 🤝 I’m looking for help with [-](-)
-
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
-
-- 💬 Ask me about **-**
-
-- 📫 How to reach me **-**
-
-- 📄 Know about my experiences [-](-)
-
-- ⚡ Fun fact **-**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Passionate about building impactful software, exploring open-source technologies, and continuously learning to solve real-world problems through code and infrastructure.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fobvsy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fobvsy&show_icons=true&locale=en&layout=compact" alt="fobvsy" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Networking-Enthusiast-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOSTI-Chairman-red?style=for-the-badge"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Informatics Engineering student at **Universitas Muhammadiyah Surakarta**
+- 🌱 Currently deepening my skills in **Backend Development, Networking, Software Engineering, and System Design**
+- 💻 Interested in **web development, automation, open source, and network infrastructure**
+- 🚀 Enjoy building applications that solve real problems and improve productivity
+
+---
+
+## 🚀 Featured Projects
+
+- 🐧 **LuminOS** — custom Linux distribution (remastering project)
+- 🤖 Telegram Task Management Bot
+- ✅ Web-based To-Do List Management System
+- 🏨 Hotel Reservation Website
+- 🌐 Hoax Detection Web Application
+- 🌗 Personal web portfolio — three-page site with dark mode, hamburger menu, and accessibility support ([fobvsy](https://github.com/fobvsy))
+- 📑 Software engineering documentation (PRD, SRS, SDD)
+- 🖥️ Computer networking & Linux labs
+
+---
+
+## 🌱 Currently Learning
+
+Backend Development · Software Architecture · Computer Networks · Linux Server Administration · Database Optimization · Clean Code & Design Patterns
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
+<a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fobvsy&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fobvsy&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=fobvsy&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fobvsy&theme=github-dark"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fobvsy&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+<a href="https://github.com/fobvsy">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=telegram"/>
+</a>
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Keep learning, keep building, and let every project become proof of your growth."*
+
+---
+
+<p align="center">
+Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
+</p>
