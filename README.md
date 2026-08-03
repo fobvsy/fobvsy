@@ -16,7 +16,6 @@ Passionate about building impactful software, exploring open-source technologies
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Networking-Enthusiast-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOSTI-Chairman-red?style=for-the-badge"/>
 </p>
 
 ---
